@@ -1,4 +1,4 @@
-John Ly 👋
+<h1>🏋 John Ly</h1>
 
 <!--
 **johnly17/johnly17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

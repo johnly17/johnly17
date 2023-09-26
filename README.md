@@ -1,6 +1,10 @@
 <h1>🏋  John Ly</h1>
 
 **`Software Engineer`**
+
+I'm an adaptable and motivated software engineer with a passion for building innovative web applications. I have a backgrounds in biology and chemistry which contribute to my strong analytical thinking abilities, and excelling in problem-solving areas. I'm seeking to leverage my programming and debugging skills to improve application scalability and usability. I'm eager to collaborate with others and contribute my skills while working effectively within a dynamic team.
+
+---
 <!--
 **johnly17/johnly17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
